@@ -10,7 +10,7 @@
 static char *font    = "ShureTechMono Nerd Font:style=Bold:pixelsize=16:antialias=true:autohint=true";
 /* Spare fonts */
 static char *font2[] = {
-	"NotoColorEmoji:style=Regular:pixelsize=16:antialias=true:autohint=true",
+	"ShureTechMono Nerd Font:style=Regular:pixelsize=12:antialias=true:autohint=true",
 };
 
 static int borderpx  = 0;
